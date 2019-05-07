@@ -15,6 +15,7 @@ public class App
         System.out.println( "New4!!!" );
         System.out.println( "New5!!!" );
         System.out.println( "New6!!!" );
+        System.out.println( "New7!!!" );
     }
 }
 
