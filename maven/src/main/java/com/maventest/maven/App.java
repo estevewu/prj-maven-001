@@ -11,5 +11,6 @@ public class App
         System.out.println( "Hello World! My Git! next OK!!!" );
         System.out.println( "New1!!!" );
         System.out.println( "New2!!!" );
+        System.out.println( "New3!!!" );        
     }
 }
